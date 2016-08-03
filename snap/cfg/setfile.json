@@ -1,0 +1,18 @@
+{
+     "cpu0_load": {
+            "exec": "/home/prowess/Desktop/loadgen/l_cpu.sh",
+            "type": "int32"
+                },
+     "disk_io_wait": {
+            "exec": "/home/prowess/Desktop/loadgen/l_disk.sh",
+            "type": "int32"
+                },
+     "net_eth0_util_percent": {
+            "exec": "/home/prowess/Desktop/loadgen/l_net.sh",
+            "type": "int32"
+                },
+     "vm_used_percent": {
+            "exec": "/home/prowess/Desktop/loadgen/l_ram.sh",
+            "type": "int32"
+    }
+}
