@@ -1,0 +1,38 @@
+{
+     "status_down": {
+            "exec": "/home/user/Desktop/loadgen/generic/0.sh",
+            "type": "int32"
+                },
+     "status_up": {
+            "exec": "/home/user/Desktop/loadgen/generic/1.sh",
+            "type": "int32"
+                },
+     "pc_0_100": {
+            "exec": "/home/user/Desktop/loadgen/generic/0_100.sh",
+            "type": "int32"
+                },
+     "pc_low": {
+            "exec": "/home/user/Desktop/loadgen/generic/low.sh",
+            "type": "int32"
+                },
+     "pc_maxed": {
+            "exec": "/home/user/Desktop/loadgen/generic/maxed.sh",
+            "type": "int32"
+                },
+     "pc_high": {
+            "exec": "/home/user/Desktop/loadgen/generic/high.sh",
+            "type": "int32"
+                },
+     "pc_stable10": {
+            "exec": "/home/user/Desktop/loadgen/generic/stable10.sh",
+            "type": "int32"
+                },
+     "pc_stable23": {
+            "exec": "/home/user/Desktop/loadgen/generic/stable23.sh",
+            "type": "int32"
+                },
+     "pc_spike": {
+            "exec": "/home/user/Desktop/loadgen/generic/spike.sh",
+            "type": "int32"
+    }
+}

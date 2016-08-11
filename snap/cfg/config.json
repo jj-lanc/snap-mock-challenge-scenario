@@ -4,8 +4,8 @@
         "collector": {
             "exec": {
                 "all": {
-                    "setfile": "/home/prowess/Desktop/loadgen/snap/cfg/setfile.json",
-                    "execution_timeout" : 10
+                    "setfile": "/home/user/Desktop/loadgen/snap/cfg/setfile.json",
+                    "execution_timeout" : 20
                 }
             }
         },

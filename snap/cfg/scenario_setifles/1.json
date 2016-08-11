@@ -1,0 +1,83 @@
+{
+     "status_down": {
+            "exec": "/home/user/Desktop/loadgen/generic/0.sh",
+            "type": "int32"
+                },
+     "status_up": {
+            "exec": "/home/user/Desktop/loadgen/generic/1.sh",
+            "type": "int32"
+                },
+     "pc_0_100": {
+            "exec": "/home/user/Desktop/loadgen/generic/0_100.sh",
+            "type": "int32"
+                },
+     "pc_low": {
+            "exec": "/home/user/Desktop/loadgen/generic/low.sh",
+            "type": "int32"
+                },
+     "pc_maxed": {
+            "exec": "/home/user/Desktop/loadgen/generic/maxed.sh",
+            "type": "int32"
+                },
+     "pc_high": {
+            "exec": "/home/user/Desktop/loadgen/generic/high.sh",
+            "type": "int32"
+                },
+     "pc_stable10": {
+            "exec": "/home/user/Desktop/loadgen/generic/stable10.sh",
+            "type": "int32"
+                },
+     "pc_stable23": {
+            "exec": "/home/user/Desktop/loadgen/generic/stable23.sh",
+            "type": "int32"
+                },
+     "pc_spike": {
+            "exec": "/home/user/Desktop/loadgen/generic/spike.sh",
+            "type": "int32"
+                },
+     "fr_c_n1_1": {
+            "exec": "/home/user/Desktop/loadgen/fr/cpu_n1_1.sh",
+            "type": "int32"
+                },
+     "fr_c_n1_2": {
+            "exec": "/home/user/Desktop/loadgen/fr/cpu_n1_2.sh",
+            "type": "int32"
+                },
+     "fr_c_n2_1": {
+            "exec": "/home/user/Desktop/loadgen/fr/cpu_n2_1.sh",
+            "type": "int32"
+                },
+     "fr_c_n2_2": {
+            "exec": "/home/user/Desktop/loadgen/fr/cpu_n2_2.sh",
+            "type": "int32"
+                },
+     "fr_c_n3_1": {
+            "exec": "/home/user/Desktop/loadgen/fr/cpu_n3_1.sh",
+            "type": "int32"
+                },
+     "fr_c_n3_2": {
+            "exec": "/home/user/Desktop/loadgen/fr/cpu_n3_2.sh",
+            "type": "int32"
+                },
+     "fr_c_n4_1": {
+            "exec": "/home/user/Desktop/loadgen/fr/cpu_n4_1.sh",
+            "type": "int32"
+                },
+     "fr_c_n4_2": {
+            "exec": "/home/user/Desktop/loadgen/fr/cpu_n4_2.sh",
+            "type": "int32"
+                },
+     "fr_t1": {
+            "exec": "/home/user/Desktop/loadgen/fr/t1.sh",
+            "type": "int32"
+                },
+     "fr_t2": {
+            "exec": "/home/user/Desktop/loadgen/fr/t2.sh",
+            "type": "int32"
+                },
+     "fr_mem": {
+            "exec": "/home/user/Desktop/loadgen/fr/mem.sh",
+            "type": "int32"
+                },
+
+}
